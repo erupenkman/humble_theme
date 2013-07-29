@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="36" xOffset="0" scrollWidth="1463" startPos="1745" endPos="1752" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\vytheme\wordpress\wp-content\themes\humbletheme\header.php" />
+            <File firstVisibleLine="362" xOffset="0" scrollWidth="2163" startPos="15256" endPos="15268" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\vytheme\wordpress\wp-content\themes\humbletheme\includes\admin\theme-options.php" />
+            <File firstVisibleLine="262" xOffset="0" scrollWidth="949" startPos="7921" endPos="7921" selMode="0" lang="CSS" encoding="-1" filename="C:\wamp\www\vytheme\wordpress\wp-content\themes\humbletheme\style.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="273" startPos="96" endPos="104" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\vytheme\wordpress\wp-content\themes\humbletheme\includes\hooks.php" />
+            <File firstVisibleLine="69" xOffset="0" scrollWidth="1463" startPos="2290" endPos="2290" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\vytheme\wordpress\wp-content\themes\humbletheme\home.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
