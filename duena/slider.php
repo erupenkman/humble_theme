@@ -82,6 +82,7 @@
 /* <![CDATA[ */
     jQuery(window).load(function() {
         jQuery('.flexslider').flexslider({
+			slideshowSpeed: 4000, //time taken for a transition (in milliseconds)
             animation: "<?php if (of_get_option('sl_effect') != '') { echo of_get_option('sl_effect'); } else { echo 'fade'; }; ?>",
             direction: "<?php if (of_get_option('sl_direction') != '') { echo of_get_option('sl_direction'); } else { echo 'horizontal'; }; ?>",
             slideshow: <?php if (of_get_option('sl_slideshow') != '') { echo of_get_option('sl_slideshow'); } else { echo 'true'; }; ?>,
